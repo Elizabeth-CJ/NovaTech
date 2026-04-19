@@ -1,16 +1,23 @@
 ![NovaTech Systems](novatech_logo.png)
+</div>
+<h1 align="center">Employee Attrition Analysis</h1>
+<table align="center">
+  <tr>
+    <td width="1440">
+      <h2 align="center">Client Background</h2>
+      <body>
+        <strong>NovaTech Systems</strong> is a US-based mid-size technology company founded in 2012, specializing in enterprise software solutions, cloud infrastructure, and AI-powered data analytics platforms. Headquartered in Austin, Texas, NovaTech serves over 400 enterprise clients across North America, Europe, and Asia-Pacific. Over the past decade, the company has grown from a 200-person startup into a 1,480-employee organization, driven by rapid product expansion and three strategic acquisitions. <br>
+        <br>In recent years, NovaTech has faced increasing competition for technical talent as the enterprise software market tightens. The company's rapid headcount growth has not been matched by a proportional evolution of its compensation structure or career development frameworks, creating the retention vulnerabilities explored in this report.<br>
+        <br>Reporting to the Head of Operations, the People & Culture team conducted an in-depth exploration of NovaTech's employee attrition data to surface trends and to understand what the data reveals about the underlying drivers of turnover.<br>
+   </tr>
+</table>
 
-# Employee Attrition Analysis
-
-| | |
-|---|---|
-| **Client Background** | **NovaTech Systems** is a US-based mid-size technology company founded in 2012, specializing in enterprise software solutions, cloud infrastructure, and AI-powered data analytics platforms. Headquartered in Austin, Texas, NovaTech serves over 400 enterprise clients across North America, Europe, and Asia-Pacific. Over the past decade, the company has grown from a 200-person startup into a 1,480-employee organization, driven by rapid product expansion and three strategic acquisitions. In recent years, NovaTech has faced increasing competition for technical talent as the enterprise software market tightens. The company's rapid headcount growth has not been matched by a proportional evolution of its compensation structure or career development frameworks, creating the retention vulnerabilities explored in this report. Reporting to the Head of Operations, the People & Culture team conducted an in-depth exploration of NovaTech's employee attrition data to surface trends in who is leaving, when, and under what conditions — and to understand what the data reveals about the underlying drivers of turnover. |
 
 ---
+ <h1 align="center">Executive Summary</h1>
 
-# Executive Summary
-
-### Attrition at a Glance
+<h3 align="center">Attrition at a Glance</h3>
+<div align="center">
 
 | **1,480** | **238** | **16%** | **$6.50K** | **7 yrs** |
 |:---:|:---:|:---:|:---:|:---:|
@@ -24,6 +31,7 @@
 | **Age & Career Stage** | The 26–35 age group is the largest exit segment across the organization. Employees at the early-to-mid point of their careers are leaving at a disproportionate rate. |
 | **Tenure** | Attrition spikes sharply in the first year of employment and again near year five — two distinct points where NovaTech is losing employees before they are fully integrated, and when they hit a growth ceiling. |
 | **Concentration** | Attrition is not evenly spread. The data reveals a significant concentration of exits within a specific salary tier, age band, and tenure window — pointing to a structural gap rather than a broad cultural issue. |
+</div>
 
 ---
 
@@ -210,4 +218,4 @@ If all four recommendations are implemented within 90 days, the following outcom
 
 ---
 
-*People & Culture | Retention Risk Report | Prepared for: Head of Operations*
+
