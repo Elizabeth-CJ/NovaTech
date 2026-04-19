@@ -40,7 +40,7 @@
 
 # Dashboard
 
-![HR Dashboard — Company Wide](dashboard_company.png)
+![Company KPI](KPI_Overall.png)
 *Company-wide view: 1,480 employees, 238 attrition, 16% rate*
 
 ---
