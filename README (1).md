@@ -1,4 +1,7 @@
+<div align="center">
+  
 ![NovaTech Systems](novatech_logo.png)
+
 </div>
 <h1 align="center">Employee Attrition Analysis</h1>
 <table align="center">
