@@ -25,10 +25,6 @@
 ![Company KPI](KPI_Overall.png)
 *Company-wide view: 1,480 employees, 238 attrition, 16% rate*
 
-| **1,480** | **238** | **16%** | **$6.50K** | **7 yrs** |
-|:---:|:---:|:---:|:---:|:---:|
-| Total Employees | Total Attrition | Attrition Rate | Avg Monthly Salary | Avg Tenure |
-
 ### What the Data Reveals
 
 | Area | Finding |
@@ -92,8 +88,9 @@
 
 > Company-wide averages obscure where attrition is actually occurring. Filtering the data by department and role reveals that exits are heavily concentrated in one area of the business.
 
-![HR Dashboard — R&D Department](dashboard_rd.png)
-*R&D department filter: 967 employees, 133 attrition, 14% rate*
+
+![Attrition by Department](Screenshot 2026-04-19 192024.png)
+*R&D department accounts for 56% of attrition*
 
 ### Attrition by Department
 
