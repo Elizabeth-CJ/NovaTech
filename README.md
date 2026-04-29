@@ -23,7 +23,7 @@
 <div align="center">
 
 ![Company KPI](KPI_Overall.png)
-*Company-wide view: 1,480 employees, 238 attrition, 16% rate*
+*Company-wide KPIs*
 
 ### What the Data Reveals
 
@@ -87,10 +87,12 @@
 ## 03 — Concentration
 
 > Company-wide averages obscure where attrition is actually occurring. Filtering the data by department and role reveals that exits are heavily concentrated in one area of the business.
+<div align="center">
 
+<img src="Dept_Attrition.png" alt="DeptAttritionsmall" width="700" height="auto"> 
 
-![Attrition by Department](Screenshot 2026-04-19 192024.png)
 *R&D department accounts for 56% of attrition*
+</div>
 
 ### Attrition by Department
 
@@ -112,10 +114,10 @@
 | Laboratory Technician | 19 | 14.3% |
 | Manufacturing Director | 3 | 2.3% |
 
+---
 ### Drilling Deeper — Research Scientist Role
 
-![HR Dashboard — Research Scientist Role](dashboard_rs.png)
-*Research Scientist role filter: 578 employees, 100 attrition, 17% rate*
+![Research Scientist Role](RS_KPI.png)
 
 | Metric | Research Scientist | R&D Dept | Company |
 |---|:---:|:---:|:---:|
@@ -208,8 +210,6 @@ If all four recommendations are implemented within 90 days, the following outcom
 | Sub-$5K band exits | ~164 | **<80** | Salary band adjustment |
 | 26–35 cohort attrition | ~38% | **<25%** | Career ladder + compensation |
 | Satisfied leavers (Score 4) | ~52 | **<20** | Counter-offer protocol + exit intel |
-
-> **Note:** Data sourced from HR Dashboard — company-wide view (1,480 employees, 238 attrition), R&D department filter (967 employees, 133 attrition, 14% rate), and role-level filter (578 employees, 100 attrition, 17% rate). Salary figures reflect monthly amounts. Tenure and age sub-counts are approximated from dashboard chart analysis.
 
 ---
 
