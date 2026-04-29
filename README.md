@@ -22,6 +22,9 @@
 <h3 align="center">Attrition at a Glance</h3>
 <div align="center">
 
+![Company KPI](KPI_Overall.png)
+*Company-wide view: 1,480 employees, 238 attrition, 16% rate*
+
 | **1,480** | **238** | **16%** | **$6.50K** | **7 yrs** |
 |:---:|:---:|:---:|:---:|:---:|
 | Total Employees | Total Attrition | Attrition Rate | Avg Monthly Salary | Avg Tenure |
@@ -37,14 +40,6 @@
 </div>
 
 ---
-
-# Dashboard
-
-![Company KPI](KPI_Overall.png)
-*Company-wide view: 1,480 employees, 238 attrition, 16% rate*
-
----
-
 # Insights Deep-Dive
 
 ## 01 — Compensation
