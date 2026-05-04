@@ -19,14 +19,21 @@
 ---
  <h1 align="center">Executive Summary</h1>
 
-<h3 align="center">Attrition at a Glance</h3>
+
+## Attrition at a Glance
+
 <div align="center">
+  
+![NovaTech HR Dashboard](DashThumb.png)  
 
-![Company KPI](KPI_Overall.png)
-*Company-wide KPIs*
+:page_facing_up: *[Power BI Report](https://app.powerbi.com/groups/me/reports/d628bb3d-dfda-42bb-9ee0-799f886d3eb0/ab79cfe8c08c262622b6?experience=power-bi)*
+  
+</div>
 
-### What the Data Reveals
 
+## What the Data Reveals
+<div align="center">
+  
 | Area | Finding |
 |---|---|
 | **Compensation** | 69% of all departing employees earned under $5,000/month. The relationship between pay and attrition is consistent and striking — the lower the salary band, the higher the exit rate. |
@@ -60,6 +67,8 @@
 
 > The age and tenure breakdowns reveal a clear profile — early-to-mid career employees in their first years at the company are disproportionately represented in the departure data.
 
+<div align="center">
+  
 ### Attrition by Age Group
 
 | Age Group | Departures | % of Total Attrition | Risk Level |
@@ -78,6 +87,8 @@
 | **Years 2–4** | Relative dip | Employees who stay past year one do settle in — temporarily |
 | **Year 5** | Secondary peak | Stagnation point — no promotion, no salary adjustment — and employees exit |
 
+</div>
+
 **Key Takeaway**
 - The year-one spike and year-five plateau point to **two distinct retention failure modes**.
 - Both align with the compensation findings: underpaid new hires leave quickly, and underpaid experienced employees eventually run out of patience.
@@ -92,7 +103,7 @@
 <img src="Dept_Attrition.png" alt="DeptAttritionsmall" width="700" height="auto"> 
 
 *R&D department accounts for 56% of attrition*
-</div>
+
 
 ### Attrition by Department
 
@@ -114,11 +125,16 @@
 | Laboratory Technician | 19 | 14.3% |
 | Manufacturing Director | 3 | 2.3% |
 
+</div>
+
 ---
-### Drilling Deeper — Research Scientist Role
+## Deeper Dive
 
-![Research Scientist Role](RS_KPI.png)
+### Research Scientist Role
+> Filtering to the role level confirms what the department data suggests. Attrition is not spread evenly across R&D. It is concentrated in a single job title, in the same salary band and age cohort identified above.
 
+<div align="center">
+  
 | Metric | Research Scientist | R&D Dept | Company |
 |---|:---:|:---:|:---:|
 | Headcount | 578 | 967 | 1,480 |
@@ -126,7 +142,13 @@
 | Attrition Rate | **17%** | 14% | 16% |
 | Avg Age Leaving | 36 | 37 | 37 |
 | Sub-$5K departures | 69% | 83% | 69% |
+</div>
 
+### Age Group
+> The age breakdown reveals a clear profile. The 26 to 35 cohort accounts for the largest share of departures at every level of the data, pointing to a consistent early to mid career retention gap across the organization.
+
+<div align="center">
+  
 | Age Group | RS Departures | % of RS Attrition | Risk Level |
 |---|:---:|:---:|:---:|
 | **26–35** | **50** | **50%** | 🔴 Critical |
@@ -135,16 +157,23 @@
 | 46–55 | 9 | 9% | ⚪ Moderate |
 | 55+ | ~0 | <1% | 🟢 Low |
 
+
+</div>
+
 ### Job Satisfaction Analysis
 
 > If compensation alone were driving exits, we would expect most departing employees to report dissatisfaction. The data is more nuanced — and more instructive.
 
+<div align="center">
+  
 | Satisfaction Score | RS Departures | % of RS Total | What It Signals |
 |---|:---:|:---:|---|
 | 1 — Very Dissatisfied | 31 | 31% | Role design, management, or workload issues |
 | 2 — Dissatisfied | 19 | 19% | Engagement and culture concerns |
 | 3 — Neutral | 29 | 29% | Passively waiting for a better offer to arrive |
 | **4 — Satisfied** | **21** | **21%** | **Happy at NovaTech — but paid more elsewhere** |
+
+</div>
 
 **Key Takeaway**
 - **21 satisfied employees** still resigned. This is not a culture problem — it is a market pricing problem.
